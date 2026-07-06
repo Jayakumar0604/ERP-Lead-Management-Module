@@ -1,0 +1,1744 @@
+{
+  "leads": [
+    {
+      "id": "1",
+      "name": "Neha Desai",
+      "mobile": "9981412180",
+      "email": "neha.desai@example.com",
+      "address": "Hyderabad",
+      "courseInterested": "Cyber Security",
+      "leadSource": "Google Ads",
+      "assignedEmployee": "Neha Sharma",
+      "status": "Converted",
+      "createdDate": "2025-01-16",
+      "notes": [
+        {
+          "id": "01d8d55d-16b2-40c6-90ea-249050e2daf1",
+          "content": "Discussed regarding Full Stack Development course details and schedule.",
+          "createdDate": "2026-03-22T16:16:11.417Z",
+          "createdBy": "Priya Singh"
+        },
+        {
+          "id": "811cf1f0-80cc-401f-8330-638e7954c141",
+          "content": "Discussed regarding UI/UX Design course details and schedule.",
+          "createdDate": "2026-04-30T03:08:55.626Z",
+          "createdBy": "Priya Singh"
+        },
+        {
+          "id": "7478b1bc-8440-4d6d-9472-765e4030abca",
+          "content": "Discussed regarding Cyber Security course details and schedule.",
+          "createdDate": "2026-03-20T09:58:59.465Z",
+          "createdBy": "Neha Sharma"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Arjun Patel",
+      "mobile": "9104739237",
+      "email": "arjun.patel@example.com",
+      "address": "Hyderabad",
+      "courseInterested": "Cloud Computing",
+      "leadSource": "Website",
+      "assignedEmployee": "Neha Sharma",
+      "status": "Lost",
+      "createdDate": "2026-04-25",
+      "notes": [
+        {
+          "id": "0b542224-d47f-4948-a925-a43f6d3b5042",
+          "content": "Discussed regarding Cyber Security course details and schedule.",
+          "createdDate": "2026-06-21T01:19:29.567Z",
+          "createdBy": "Rohan Desai"
+        },
+        {
+          "id": "839b6337-55f2-44b1-a92e-bfdb251bd5d0",
+          "content": "Discussed regarding Cyber Security course details and schedule.",
+          "createdDate": "2026-05-02T06:24:55.661Z",
+          "createdBy": "Vikram Singh"
+        },
+        {
+          "id": "2c71308d-dbb6-4de9-812e-d9ff1e2535d7",
+          "content": "Discussed regarding Data Science course details and schedule.",
+          "createdDate": "2026-05-24T04:56:16.869Z",
+          "createdBy": "Priya Singh"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Rohan Nair",
+      "mobile": "9867711448",
+      "email": "rohan.nair@example.com",
+      "address": "Mumbai",
+      "courseInterested": "Cyber Security",
+      "leadSource": "Direct",
+      "assignedEmployee": "Amit Kumar",
+      "status": "New",
+      "createdDate": "2024-03-11",
+      "notes": [
+        {
+          "id": "f2e259d0-5b62-423c-8260-d897bfed779f",
+          "content": "Discussed regarding Cloud Computing course details and schedule.",
+          "createdDate": "2026-06-15T07:45:36.312Z",
+          "createdBy": "Amit Kumar"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Karan Gupta",
+      "mobile": "9569527185",
+      "email": "karan.gupta@example.com",
+      "address": "Kolkata",
+      "courseInterested": "Data Science",
+      "leadSource": "Website",
+      "assignedEmployee": "Amit Kumar",
+      "status": "Qualified",
+      "createdDate": "2024-05-31",
+      "notes": [
+        {
+          "id": "51350ccb-ba85-457b-add2-6bf87f6e9bb6",
+          "content": "Discussed regarding Data Science course details and schedule.",
+          "createdDate": "2026-06-20T00:12:57.162Z",
+          "createdBy": "Rohan Desai"
+        },
+        {
+          "id": "24097f33-0160-493c-9ac5-bc4366730377",
+          "content": "Discussed regarding Cloud Computing course details and schedule.",
+          "createdDate": "2026-05-16T23:41:44.147Z",
+          "createdBy": "Amit Kumar"
+        },
+        {
+          "id": "c6c61ca9-2c6c-4a97-b345-9708696c9fd0",
+          "content": "Discussed regarding Full Stack Development course details and schedule.",
+          "createdDate": "2026-04-18T12:39:25.493Z",
+          "createdBy": "Vikram Singh"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Vikram Rao",
+      "mobile": "9237165259",
+      "email": "vikram.rao@example.com",
+      "address": "Hyderabad",
+      "courseInterested": "Data Science",
+      "leadSource": "Website",
+      "assignedEmployee": "Priya Singh",
+      "status": "Qualified",
+      "createdDate": "2023-06-20",
+      "notes": [
+        {
+          "id": "3d1d6dde-b9c5-4dee-999b-f5b135112911",
+          "content": "Discussed regarding Cyber Security course details and schedule.",
+          "createdDate": "2026-06-19T01:51:35.891Z",
+          "createdBy": "Vikram Singh"
+        },
+        {
+          "id": "227479f1-efe1-4391-af4f-dde2794fdd31",
+          "content": "Discussed regarding Full Stack Development course details and schedule.",
+          "createdDate": "2026-07-03T14:13:01.936Z",
+          "createdBy": "Rohan Desai"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Rohan Das",
+      "mobile": "9629507761",
+      "email": "rohan.das@example.com",
+      "address": "Ahmedabad",
+      "courseInterested": "Cloud Computing",
+      "leadSource": "Referral",
+      "assignedEmployee": "Neha Sharma",
+      "status": "New",
+      "createdDate": "2025-02-18",
+      "notes": [
+        {
+          "id": "fe88c709-89b7-478f-8a33-af4f5216e8a8",
+          "content": "Discussed regarding Cyber Security course details and schedule.",
+          "createdDate": "2026-05-11T23:05:12.124Z",
+          "createdBy": "Amit Kumar"
+        },
+        {
+          "id": "7608ef5c-d1cc-43c1-87f3-9b94f79c706a",
+          "content": "Discussed regarding Full Stack Development course details and schedule.",
+          "createdDate": "2026-04-19T21:02:52.203Z",
+          "createdBy": "Priya Singh"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Rohan Gupta",
+      "mobile": "9280915971",
+      "email": "rohan.gupta@example.com",
+      "address": "Ahmedabad",
+      "courseInterested": "Cyber Security",
+      "leadSource": "Referral",
+      "assignedEmployee": "Rohan Desai",
+      "status": "Contacted",
+      "createdDate": "2024-12-19",
+      "notes": [
+        {
+          "id": "0608cfdc-faff-4981-b6fc-d720881ffe31",
+          "content": "Discussed regarding Cloud Computing course details and schedule.",
+          "createdDate": "2026-05-10T04:07:31.706Z",
+          "createdBy": "Amit Kumar"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Suresh Singh",
+      "mobile": "9521160411",
+      "email": "suresh.singh@example.com",
+      "address": "Bangalore",
+      "courseInterested": "Full Stack Development",
+      "leadSource": "Direct",
+      "assignedEmployee": "Neha Sharma",
+      "status": "Qualified",
+      "createdDate": "2026-01-09",
+      "notes": [
+        {
+          "id": "27c7b760-bd60-49f3-a463-8df930c3314b",
+          "content": "Discussed regarding UI/UX Design course details and schedule.",
+          "createdDate": "2026-04-10T04:09:54.218Z",
+          "createdBy": "Neha Sharma"
+        },
+        {
+          "id": "a82e8f20-2ed4-4d05-aaf5-18d5c67f9c06",
+          "content": "Discussed regarding Cloud Computing course details and schedule.",
+          "createdDate": "2026-05-18T17:31:35.573Z",
+          "createdBy": "Amit Kumar"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Rohan Rao",
+      "mobile": "9702613443",
+      "email": "rohan.rao@example.com",
+      "address": "Kolkata",
+      "courseInterested": "Data Science",
+      "leadSource": "Direct",
+      "assignedEmployee": "Neha Sharma",
+      "status": "Qualified",
+      "createdDate": "2023-06-29",
+      "notes": []
+    },
+    {
+      "id": "10",
+      "name": "Arjun Joshi",
+      "mobile": "9464695104",
+      "email": "arjun.joshi@example.com",
+      "address": "Delhi",
+      "courseInterested": "Cyber Security",
+      "leadSource": "Direct",
+      "assignedEmployee": "Neha Sharma",
+      "status": "Qualified",
+      "createdDate": "2023-04-17",
+      "notes": [
+        {
+          "id": "a9423620-f14c-44e4-97f9-3dce335795b8",
+          "content": "Discussed regarding Cyber Security course details and schedule.",
+          "createdDate": "2026-04-03T17:52:36.341Z",
+          "createdBy": "Vikram Singh"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Pooja Roy",
+      "mobile": "9783040039",
+      "email": "pooja.roy@example.com",
+      "address": "Ahmedabad",
+      "courseInterested": "Cyber Security",
+      "leadSource": "Google Ads",
+      "assignedEmployee": "Priya Singh",
+      "status": "Converted",
+      "createdDate": "2023-01-04",
+      "notes": []
+    },
+    {
+      "id": "12",
+      "name": "Deepak Singh",
+      "mobile": "9622644754",
+      "email": "deepak.singh@example.com",
+      "address": "Hyderabad",
+      "courseInterested": "UI/UX Design",
+      "leadSource": "Google Ads",
+      "assignedEmployee": "Amit Kumar",
+      "status": "Lost",
+      "createdDate": "2024-12-03",
+      "notes": [
+        {
+          "id": "00246824-c427-42a2-8254-05646927f069",
+          "content": "Discussed regarding Data Science course details and schedule.",
+          "createdDate": "2026-03-22T15:22:57.705Z",
+          "createdBy": "Neha Sharma"
+        },
+        {
+          "id": "106c6adf-a49c-4354-8c01-d3cafbbdf1ce",
+          "content": "Discussed regarding UI/UX Design course details and schedule.",
+          "createdDate": "2026-06-09T16:12:49.881Z",
+          "createdBy": "Priya Singh"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Priya Verma",
+      "mobile": "9414881057",
+      "email": "priya.verma@example.com",
+      "address": "Ahmedabad",
+      "courseInterested": "Full Stack Development",
+      "leadSource": "LinkedIn",
+      "assignedEmployee": "Neha Sharma",
+      "status": "Lost",
+      "createdDate": "2024-08-16",
+      "notes": [
+        {
+          "id": "b25dc6a8-eb56-4046-9e62-70334dbc41bf",
+          "content": "Discussed regarding UI/UX Design course details and schedule.",
+          "createdDate": "2026-04-08T10:25:16.110Z",
+          "createdBy": "Priya Singh"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Priya Mehta",
+      "mobile": "9977071663",
+      "email": "priya.mehta@example.com",
+      "address": "Delhi",
+      "courseInterested": "Data Science",
+      "leadSource": "Referral",
+      "assignedEmployee": "Vikram Singh",
+      "status": "New",
+      "createdDate": "2024-11-05",
+      "notes": []
+    },
+    {
+      "id": "15",
+      "name": "Sneha Kumar",
+      "mobile": "9476357032",
+      "email": "sneha.kumar@example.com",
+      "address": "Kolkata",
+      "courseInterested": "Full Stack Development",
+      "leadSource": "Referral",
+      "assignedEmployee": "Priya Singh",
+      "status": "Lost",
+      "createdDate": "2024-01-14",
+      "notes": [
+        {
+          "id": "421d297c-a796-489c-b9e3-a3f6bc6de06c",
+          "content": "Discussed regarding Data Science course details and schedule.",
+          "createdDate": "2026-05-04T12:13:47.812Z",
+          "createdBy": "Priya Singh"
+        },
+        {
+          "id": "6ab13315-c864-4986-ba68-fb608daf6b55",
+          "content": "Discussed regarding Full Stack Development course details and schedule.",
+          "createdDate": "2026-05-29T19:54:25.129Z",
+          "createdBy": "Vikram Singh"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Neha Gupta",
+      "mobile": "9294099383",
+      "email": "neha.gupta@example.com",
+      "address": "Hyderabad",
+      "courseInterested": "Full Stack Development",
+      "leadSource": "Referral",
+      "assignedEmployee": "Vikram Singh",
+      "status": "Converted",
+      "createdDate": "2025-09-11",
+      "notes": [
+        {
+          "id": "51b91d09-d686-4ce7-a9cc-2b7e6c5c2a11",
+          "content": "Discussed regarding Cloud Computing course details and schedule.",
+          "createdDate": "2026-05-24T20:39:32.385Z",
+          "createdBy": "Priya Singh"
+        },
+        {
+          "id": "a522ce49-8b69-45bf-b0d7-c7c745b62de4",
+          "content": "Discussed regarding UI/UX Design course details and schedule.",
+          "createdDate": "2026-06-20T12:08:40.000Z",
+          "createdBy": "Neha Sharma"
+        },
+        {
+          "id": "bab4c03b-2623-4d55-8cc9-333494b5f752",
+          "content": "Discussed regarding Full Stack Development course details and schedule.",
+          "createdDate": "2026-06-15T04:09:19.842Z",
+          "createdBy": "Rohan Desai"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Suresh Sharma",
+      "mobile": "9728748237",
+      "email": "suresh.sharma@example.com",
+      "address": "Chennai",
+      "courseInterested": "Full Stack Development",
+      "leadSource": "Referral",
+      "assignedEmployee": "Priya Singh",
+      "status": "New",
+      "createdDate": "2024-09-26",
+      "notes": []
+    },
+    {
+      "id": "18",
+      "name": "Amit Gupta",
+      "mobile": "9991774700",
+      "email": "amit.gupta@example.com",
+      "address": "Chennai",
+      "courseInterested": "Cyber Security",
+      "leadSource": "Direct",
+      "assignedEmployee": "Amit Kumar",
+      "status": "New",
+      "createdDate": "2024-03-01",
+      "notes": [
+        {
+          "id": "f7a71bbd-a160-4a6d-aa9d-0299617281c6",
+          "content": "Discussed regarding Data Science course details and schedule.",
+          "createdDate": "2026-06-21T02:53:46.939Z",
+          "createdBy": "Vikram Singh"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Neha Roy",
+      "mobile": "9504718718",
+      "email": "neha.roy@example.com",
+      "address": "Kolkata",
+      "courseInterested": "Full Stack Development",
+      "leadSource": "LinkedIn",
+      "assignedEmployee": "Neha Sharma",
+      "status": "Converted",
+      "createdDate": "2025-09-23",
+      "notes": [
+        {
+          "id": "f5ff8c29-6593-40c1-b584-b967f3743a6c",
+          "content": "Discussed regarding Cyber Security course details and schedule.",
+          "createdDate": "2026-05-19T03:51:04.904Z",
+          "createdBy": "Vikram Singh"
+        },
+        {
+          "id": "d922a99a-1a0d-4e30-84cc-410ef6d5fcdd",
+          "content": "Discussed regarding Full Stack Development course details and schedule.",
+          "createdDate": "2026-06-17T09:36:30.411Z",
+          "createdBy": "Rohan Desai"
+        },
+        {
+          "id": "bcb2fdf6-f06b-4be1-a55e-afeba9631c44",
+          "content": "Discussed regarding Data Science course details and schedule.",
+          "createdDate": "2026-04-11T02:55:59.045Z",
+          "createdBy": "Priya Singh"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Vikram Reddy",
+      "mobile": "9494652472",
+      "email": "vikram.reddy@example.com",
+      "address": "Mumbai",
+      "courseInterested": "Cyber Security",
+      "leadSource": "Referral",
+      "assignedEmployee": "Neha Sharma",
+      "status": "Lost",
+      "createdDate": "2023-09-15",
+      "notes": [
+        {
+          "id": "ef208810-7bcb-4d82-ad66-9cc838e70eb9",
+          "content": "Discussed regarding Cloud Computing course details and schedule.",
+          "createdDate": "2026-06-26T10:34:14.013Z",
+          "createdBy": "Neha Sharma"
+        },
+        {
+          "id": "a488f5e6-de4c-4b59-ada3-0214328a2654",
+          "content": "Discussed regarding UI/UX Design course details and schedule.",
+          "createdDate": "2026-03-26T02:09:55.212Z",
+          "createdBy": "Amit Kumar"
+        },
+        {
+          "id": "d3e56a1c-ef79-4982-8808-e5adbf6973f3",
+          "content": "Discussed regarding Cloud Computing course details and schedule.",
+          "createdDate": "2026-03-18T21:18:15.012Z",
+          "createdBy": "Neha Sharma"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "name": "Rohan Gupta",
+      "mobile": "9425966222",
+      "email": "rohan.gupta@example.com",
+      "address": "Chennai",
+      "courseInterested": "Cloud Computing",
+      "leadSource": "LinkedIn",
+      "assignedEmployee": "Amit Kumar",
+      "status": "Converted",
+      "createdDate": "2024-04-19",
+      "notes": [
+        {
+          "id": "4277d46e-0966-476e-89bd-41aa8b1e9375",
+          "content": "Discussed regarding Cloud Computing course details and schedule.",
+          "createdDate": "2026-05-11T20:50:54.591Z",
+          "createdBy": "Priya Singh"
+        },
+        {
+          "id": "7f48549a-1373-4134-9396-a5a4f0eb9ccd",
+          "content": "Discussed regarding Cyber Security course details and schedule.",
+          "createdDate": "2026-06-24T06:42:13.408Z",
+          "createdBy": "Amit Kumar"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "name": "Amit Nair",
+      "mobile": "9583011287",
+      "email": "amit.nair@example.com",
+      "address": "Kolkata",
+      "courseInterested": "UI/UX Design",
+      "leadSource": "Referral",
+      "assignedEmployee": "Priya Singh",
+      "status": "Converted",
+      "createdDate": "2025-11-28",
+      "notes": []
+    },
+    {
+      "id": "23",
+      "name": "Rahul Sharma",
+      "mobile": "9749299259",
+      "email": "rahul.sharma@example.com",
+      "address": "Kolkata",
+      "courseInterested": "Cyber Security",
+      "leadSource": "LinkedIn",
+      "assignedEmployee": "Priya Singh",
+      "status": "New",
+      "createdDate": "2025-02-09",
+      "notes": [
+        {
+          "id": "b0fc49fd-3dcf-4c8e-85e9-75418850b17d",
+          "content": "Discussed regarding Full Stack Development course details and schedule.",
+          "createdDate": "2026-03-20T18:29:11.383Z",
+          "createdBy": "Amit Kumar"
+        },
+        {
+          "id": "b88a376b-b7ef-4dd0-9c9e-a59bcacd0479",
+          "content": "Discussed regarding Cloud Computing course details and schedule.",
+          "createdDate": "2026-07-04T03:45:23.337Z",
+          "createdBy": "Amit Kumar"
+        },
+        {
+          "id": "6b144c79-821c-448d-b39a-18a559b29534",
+          "content": "Discussed regarding Full Stack Development course details and schedule.",
+          "createdDate": "2026-04-16T17:20:08.519Z",
+          "createdBy": "Amit Kumar"
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "name": "Vikram Verma",
+      "mobile": "9253833493",
+      "email": "vikram.verma@example.com",
+      "address": "Bangalore",
+      "courseInterested": "Full Stack Development",
+      "leadSource": "Google Ads",
+      "assignedEmployee": "Amit Kumar",
+      "status": "Qualified",
+      "createdDate": "2025-09-01",
+      "notes": [
+        {
+          "id": "92e13904-fdcd-4a28-9102-1faf0245d033",
+          "content": "Discussed regarding Cloud Computing course details and schedule.",
+          "createdDate": "2026-04-13T12:54:22.963Z",
+          "createdBy": "Vikram Singh"
+        },
+        {
+          "id": "04397ff1-3032-4570-baaa-919aa034d1ed",
+          "content": "Discussed regarding Data Science course details and schedule.",
+          "createdDate": "2026-03-24T13:57:45.469Z",
+          "createdBy": "Rohan Desai"
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "name": "Vikram Rao",
+      "mobile": "9276518942",
+      "email": "vikram.rao@example.com",
+      "address": "Kolkata",
+      "courseInterested": "Cyber Security",
+      "leadSource": "Referral",
+      "assignedEmployee": "Rohan Desai",
+      "status": "Lost",
+      "createdDate": "2024-05-31",
+      "notes": []
+    },
+    {
+      "id": "26",
+      "name": "Divya Chauhan",
+      "mobile": "9531370609",
+      "email": "divya.chauhan@example.com",
+      "address": "Bangalore",
+      "courseInterested": "Full Stack Development",
+      "leadSource": "Referral",
+      "assignedEmployee": "Rohan Desai",
+      "status": "New",
+      "createdDate": "2024-06-02",
+      "notes": []
+    },
+    {
+      "id": "27",
+      "name": "Rahul Joshi",
+      "mobile": "9456146510",
+      "email": "rahul.joshi@example.com",
+      "address": "Delhi",
+      "courseInterested": "Cyber Security",
+      "leadSource": "Website",
+      "assignedEmployee": "Vikram Singh",
+      "status": "Qualified",
+      "createdDate": "2025-10-28",
+      "notes": [
+        {
+          "id": "ead74d73-9683-4c05-82af-ba3828eb51b8",
+          "content": "Discussed regarding UI/UX Design course details and schedule.",
+          "createdDate": "2026-06-11T07:10:42.907Z",
+          "createdBy": "Vikram Singh"
+        },
+        {
+          "id": "f48d6d83-779e-40bf-8ba1-66bed63156bb",
+          "content": "Discussed regarding Cloud Computing course details and schedule.",
+          "createdDate": "2026-06-11T17:48:02.429Z",
+          "createdBy": "Amit Kumar"
+        },
+        {
+          "id": "507be973-c37d-4e09-8040-e33ba59746cd",
+          "content": "Discussed regarding Full Stack Development course details and schedule.",
+          "createdDate": "2026-05-15T11:58:31.015Z",
+          "createdBy": "Vikram Singh"
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "name": "Arjun Chauhan",
+      "mobile": "9739085852",
+      "email": "arjun.chauhan@example.com",
+      "address": "Hyderabad",
+      "courseInterested": "Full Stack Development",
+      "leadSource": "Google Ads",
+      "assignedEmployee": "Neha Sharma",
+      "status": "Converted",
+      "createdDate": "2023-04-14",
+      "notes": []
+    },
+    {
+      "id": "29",
+      "name": "Neha Joshi",
+      "mobile": "9685305631",
+      "email": "neha.joshi@example.com",
+      "address": "Hyderabad",
+      "courseInterested": "Cloud Computing",
+      "leadSource": "Direct",
+      "assignedEmployee": "Priya Singh",
+      "status": "Lost",
+      "createdDate": "2025-04-17",
+      "notes": [
+        {
+          "id": "d86e71d6-f744-475f-8a7b-8aac50e6c715",
+          "content": "Discussed regarding Full Stack Development course details and schedule.",
+          "createdDate": "2026-06-21T10:18:52.931Z",
+          "createdBy": "Vikram Singh"
+        },
+        {
+          "id": "db5d71df-7ad9-4a65-ad7c-3753328838dc",
+          "content": "Discussed regarding Cloud Computing course details and schedule.",
+          "createdDate": "2026-03-18T00:26:59.833Z",
+          "createdBy": "Amit Kumar"
+        },
+        {
+          "id": "811af241-aed8-44f3-9d38-2c4a3e404540",
+          "content": "Discussed regarding Cloud Computing course details and schedule.",
+          "createdDate": "2026-05-28T02:17:11.610Z",
+          "createdBy": "Amit Kumar"
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "name": "Priya Nair",
+      "mobile": "9257299168",
+      "email": "priya.nair@example.com",
+      "address": "Mumbai",
+      "courseInterested": "Full Stack Development",
+      "leadSource": "Referral",
+      "assignedEmployee": "Amit Kumar",
+      "status": "Qualified",
+      "createdDate": "2024-03-25",
+      "notes": [
+        {
+          "id": "e164fdf7-69c3-4124-85fb-f9cc3d1afe4a",
+          "content": "Discussed regarding Cloud Computing course details and schedule.",
+          "createdDate": "2026-07-05T06:40:45.312Z",
+          "createdBy": "Vikram Singh"
+        },
+        {
+          "id": "d989cbf9-959e-41e9-ae2f-28a5c2964df5",
+          "content": "Discussed regarding Cyber Security course details and schedule.",
+          "createdDate": "2026-05-06T23:11:28.084Z",
+          "createdBy": "Vikram Singh"
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "name": "Pooja Kumar",
+      "mobile": "9954690986",
+      "email": "pooja.kumar@example.com",
+      "address": "Mumbai",
+      "courseInterested": "Data Science",
+      "leadSource": "Referral",
+      "assignedEmployee": "Vikram Singh",
+      "status": "Converted",
+      "createdDate": "2023-10-03",
+      "notes": []
+    },
+    {
+      "id": "32",
+      "name": "Divya Nair",
+      "mobile": "9553923722",
+      "email": "divya.nair@example.com",
+      "address": "Bangalore",
+      "courseInterested": "Cloud Computing",
+      "leadSource": "Referral",
+      "assignedEmployee": "Vikram Singh",
+      "status": "New",
+      "createdDate": "2023-01-19",
+      "notes": []
+    },
+    {
+      "id": "33",
+      "name": "Kavita Desai",
+      "mobile": "9493596533",
+      "email": "kavita.desai@example.com",
+      "address": "Delhi",
+      "courseInterested": "Cloud Computing",
+      "leadSource": "LinkedIn",
+      "assignedEmployee": "Amit Kumar",
+      "status": "Qualified",
+      "createdDate": "2024-09-27",
+      "notes": [
+        {
+          "id": "2ff3322a-65d8-408f-a927-169961f89710",
+          "content": "Discussed regarding Cloud Computing course details and schedule.",
+          "createdDate": "2026-04-25T16:46:20.884Z",
+          "createdBy": "Priya Singh"
+        },
+        {
+          "id": "61637fe3-00fb-45c9-a0a8-8fac926dec73",
+          "content": "Discussed regarding Full Stack Development course details and schedule.",
+          "createdDate": "2026-04-09T05:19:46.983Z",
+          "createdBy": "Priya Singh"
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "name": "Arjun Reddy",
+      "mobile": "9198413041",
+      "email": "arjun.reddy@example.com",
+      "address": "Hyderabad",
+      "courseInterested": "Full Stack Development",
+      "leadSource": "Website",
+      "assignedEmployee": "Vikram Singh",
+      "status": "Lost",
+      "createdDate": "2023-06-28",
+      "notes": [
+        {
+          "id": "72e43650-2927-4110-bfe7-0f2fc522a55f",
+          "content": "Discussed regarding Full Stack Development course details and schedule.",
+          "createdDate": "2026-06-25T13:40:01.688Z",
+          "createdBy": "Vikram Singh"
+        }
+      ]
+    },
+    {
+      "id": "35",
+      "name": "Pooja Sharma",
+      "mobile": "9877341769",
+      "email": "pooja.sharma@example.com",
+      "address": "Kolkata",
+      "courseInterested": "Data Science",
+      "leadSource": "Referral",
+      "assignedEmployee": "Priya Singh",
+      "status": "Qualified",
+      "createdDate": "2024-12-15",
+      "notes": [
+        {
+          "id": "bd946e55-088c-4668-951a-702cd5126134",
+          "content": "Discussed regarding UI/UX Design course details and schedule.",
+          "createdDate": "2026-03-14T04:29:01.778Z",
+          "createdBy": "Vikram Singh"
+        }
+      ]
+    },
+    {
+      "id": "36",
+      "name": "Priya Chauhan",
+      "mobile": "9793575914",
+      "email": "priya.chauhan@example.com",
+      "address": "Mumbai",
+      "courseInterested": "Full Stack Development",
+      "leadSource": "Google Ads",
+      "assignedEmployee": "Priya Singh",
+      "status": "Converted",
+      "createdDate": "2025-02-18",
+      "notes": [
+        {
+          "id": "7ed73746-df8f-4109-9f2b-f25eba38bee1",
+          "content": "Discussed regarding Cyber Security course details and schedule.",
+          "createdDate": "2026-04-29T14:36:58.795Z",
+          "createdBy": "Neha Sharma"
+        },
+        {
+          "id": "e844e90c-a2e8-433f-b200-2e1c12c5ad4a",
+          "content": "Discussed regarding Data Science course details and schedule.",
+          "createdDate": "2026-06-13T23:45:15.615Z",
+          "createdBy": "Vikram Singh"
+        },
+        {
+          "id": "83a4d50a-70cc-46da-bcf0-1e82d94a6dfe",
+          "content": "Discussed regarding Data Science course details and schedule.",
+          "createdDate": "2026-06-06T08:21:42.508Z",
+          "createdBy": "Vikram Singh"
+        }
+      ]
+    },
+    {
+      "id": "37",
+      "name": "Suresh Mehta",
+      "mobile": "9454669046",
+      "email": "suresh.mehta@example.com",
+      "address": "Chennai",
+      "courseInterested": "Data Science",
+      "leadSource": "Google Ads",
+      "assignedEmployee": "Priya Singh",
+      "status": "New",
+      "createdDate": "2023-01-17",
+      "notes": [
+        {
+          "id": "d43a7496-4e9d-4b07-9072-b38693fe7d9e",
+          "content": "Discussed regarding Cyber Security course details and schedule.",
+          "createdDate": "2026-05-03T13:17:59.941Z",
+          "createdBy": "Amit Kumar"
+        },
+        {
+          "id": "9b797f08-68c3-4fe2-b82a-ec4a7df3fb1d",
+          "content": "Discussed regarding Cloud Computing course details and schedule.",
+          "createdDate": "2026-03-18T02:58:21.749Z",
+          "createdBy": "Priya Singh"
+        },
+        {
+          "id": "85cb1228-6e9c-44de-9f22-0d97f4fbbbf4",
+          "content": "Discussed regarding Data Science course details and schedule.",
+          "createdDate": "2026-06-10T11:25:42.774Z",
+          "createdBy": "Vikram Singh"
+        }
+      ]
+    },
+    {
+      "id": "38",
+      "name": "Amit Sharma",
+      "mobile": "9366288684",
+      "email": "amit.sharma@example.com",
+      "address": "Ahmedabad",
+      "courseInterested": "Full Stack Development",
+      "leadSource": "Google Ads",
+      "assignedEmployee": "Priya Singh",
+      "status": "New",
+      "createdDate": "2024-02-24",
+      "notes": [
+        {
+          "id": "0532c0d0-0b97-4398-9c01-995b3661e0c5",
+          "content": "Discussed regarding Full Stack Development course details and schedule.",
+          "createdDate": "2026-04-09T06:51:53.718Z",
+          "createdBy": "Vikram Singh"
+        }
+      ]
+    },
+    {
+      "id": "39",
+      "name": "Suresh Singh",
+      "mobile": "9103046017",
+      "email": "suresh.singh@example.com",
+      "address": "Bangalore",
+      "courseInterested": "UI/UX Design",
+      "leadSource": "Referral",
+      "assignedEmployee": "Neha Sharma",
+      "status": "Qualified",
+      "createdDate": "2026-01-01",
+      "notes": []
+    },
+    {
+      "id": "40",
+      "name": "Rahul Kumar",
+      "mobile": "9309021168",
+      "email": "rahul.kumar@example.com",
+      "address": "Chennai",
+      "courseInterested": "Data Science",
+      "leadSource": "Direct",
+      "assignedEmployee": "Amit Kumar",
+      "status": "Lost",
+      "createdDate": "2024-09-02",
+      "notes": [
+        {
+          "id": "b9c263ae-522f-44f9-846a-bfc35392695b",
+          "content": "Discussed regarding Data Science course details and schedule.",
+          "createdDate": "2026-03-14T00:24:05.572Z",
+          "createdBy": "Rohan Desai"
+        },
+        {
+          "id": "982ff120-aec7-4e90-8e0d-2f4e75f60937",
+          "content": "Discussed regarding UI/UX Design course details and schedule.",
+          "createdDate": "2026-04-20T10:02:56.133Z",
+          "createdBy": "Amit Kumar"
+        }
+      ]
+    },
+    {
+      "id": "41",
+      "name": "Karan Chauhan",
+      "mobile": "9519980933",
+      "email": "karan.chauhan@example.com",
+      "address": "Delhi",
+      "courseInterested": "UI/UX Design",
+      "leadSource": "Website",
+      "assignedEmployee": "Vikram Singh",
+      "status": "Contacted",
+      "createdDate": "2023-06-20",
+      "notes": [
+        {
+          "id": "927cd983-f2f9-4658-bc4e-787c4b289eca",
+          "content": "Discussed regarding UI/UX Design course details and schedule.",
+          "createdDate": "2026-05-14T11:23:59.631Z",
+          "createdBy": "Vikram Singh"
+        }
+      ]
+    },
+    {
+      "id": "42",
+      "name": "Vikram Roy",
+      "mobile": "9375289807",
+      "email": "vikram.roy@example.com",
+      "address": "Hyderabad",
+      "courseInterested": "Data Science",
+      "leadSource": "Website",
+      "assignedEmployee": "Rohan Desai",
+      "status": "Contacted",
+      "createdDate": "2025-06-10",
+      "notes": [
+        {
+          "id": "b3f45637-c5c2-4128-9220-fca3fed53ea0",
+          "content": "Discussed regarding Data Science course details and schedule.",
+          "createdDate": "2026-06-02T15:31:41.348Z",
+          "createdBy": "Rohan Desai"
+        },
+        {
+          "id": "1196a58f-e951-4450-b187-bf1ba430770e",
+          "content": "Discussed regarding Cloud Computing course details and schedule.",
+          "createdDate": "2026-06-09T18:03:19.893Z",
+          "createdBy": "Priya Singh"
+        }
+      ]
+    },
+    {
+      "id": "43",
+      "name": "Vikram Sharma",
+      "mobile": "9791307789",
+      "email": "vikram.sharma@example.com",
+      "address": "Kolkata",
+      "courseInterested": "UI/UX Design",
+      "leadSource": "Website",
+      "assignedEmployee": "Amit Kumar",
+      "status": "New",
+      "createdDate": "2026-05-27",
+      "notes": [
+        {
+          "id": "f0a9bd7e-7fa0-4014-9d81-4a8ebaa4b3a7",
+          "content": "Discussed regarding UI/UX Design course details and schedule.",
+          "createdDate": "2026-04-17T08:43:51.108Z",
+          "createdBy": "Vikram Singh"
+        },
+        {
+          "id": "57c53d10-aede-47dd-a3c9-c31833ae4493",
+          "content": "Discussed regarding Cloud Computing course details and schedule.",
+          "createdDate": "2026-03-19T14:29:59.975Z",
+          "createdBy": "Neha Sharma"
+        },
+        {
+          "id": "72f0b6a3-dd79-479b-8435-d2d7729197e1",
+          "content": "Discussed regarding Cloud Computing course details and schedule.",
+          "createdDate": "2026-05-22T14:26:24.802Z",
+          "createdBy": "Amit Kumar"
+        }
+      ]
+    },
+    {
+      "id": "44",
+      "name": "Pooja Sharma",
+      "mobile": "9681904607",
+      "email": "pooja.sharma@example.com",
+      "address": "Mumbai",
+      "courseInterested": "Full Stack Development",
+      "leadSource": "Direct",
+      "assignedEmployee": "Rohan Desai",
+      "status": "Qualified",
+      "createdDate": "2025-09-25",
+      "notes": [
+        {
+          "id": "86e06008-e883-4a4f-b403-581083ee35e3",
+          "content": "Discussed regarding Full Stack Development course details and schedule.",
+          "createdDate": "2026-05-08T10:25:49.803Z",
+          "createdBy": "Neha Sharma"
+        },
+        {
+          "id": "533e04d8-7d00-46a2-9ad7-c28c1e3240b6",
+          "content": "Discussed regarding Cyber Security course details and schedule.",
+          "createdDate": "2026-05-10T13:02:00.770Z",
+          "createdBy": "Amit Kumar"
+        },
+        {
+          "id": "31065cdb-18cd-49be-85ae-930a34880cf0",
+          "content": "Discussed regarding Cyber Security course details and schedule.",
+          "createdDate": "2026-05-15T16:19:24.991Z",
+          "createdBy": "Rohan Desai"
+        }
+      ]
+    },
+    {
+      "id": "45",
+      "name": "Suresh Rao",
+      "mobile": "9761630776",
+      "email": "suresh.rao@example.com",
+      "address": "Hyderabad",
+      "courseInterested": "Full Stack Development",
+      "leadSource": "LinkedIn",
+      "assignedEmployee": "Priya Singh",
+      "status": "Contacted",
+      "createdDate": "2025-01-14",
+      "notes": [
+        {
+          "id": "2636c68c-c0c5-4ff0-aa8e-40d2cbc81749",
+          "content": "Discussed regarding Full Stack Development course details and schedule.",
+          "createdDate": "2026-05-10T09:55:08.280Z",
+          "createdBy": "Neha Sharma"
+        },
+        {
+          "id": "71432a93-032e-4b96-97ed-78cc295db441",
+          "content": "Discussed regarding Data Science course details and schedule.",
+          "createdDate": "2026-05-19T05:53:25.654Z",
+          "createdBy": "Neha Sharma"
+        }
+      ]
+    },
+    {
+      "id": "46",
+      "name": "Anjali Verma",
+      "mobile": "9606761514",
+      "email": "anjali.verma@example.com",
+      "address": "Ahmedabad",
+      "courseInterested": "Cyber Security",
+      "leadSource": "Referral",
+      "assignedEmployee": "Neha Sharma",
+      "status": "Qualified",
+      "createdDate": "2025-04-18",
+      "notes": [
+        {
+          "id": "cfd438f9-c283-410b-b2b5-c311e7355003",
+          "content": "Discussed regarding Cyber Security course details and schedule.",
+          "createdDate": "2026-03-15T06:09:50.442Z",
+          "createdBy": "Neha Sharma"
+        },
+        {
+          "id": "6e948761-b4f5-4e0f-9198-b7264cb9982c",
+          "content": "Discussed regarding UI/UX Design course details and schedule.",
+          "createdDate": "2026-05-02T03:22:18.272Z",
+          "createdBy": "Neha Sharma"
+        }
+      ]
+    },
+    {
+      "id": "47",
+      "name": "Anjali Reddy",
+      "mobile": "9596229086",
+      "email": "anjali.reddy@example.com",
+      "address": "Bangalore",
+      "courseInterested": "Cyber Security",
+      "leadSource": "Direct",
+      "assignedEmployee": "Priya Singh",
+      "status": "New",
+      "createdDate": "2023-12-24",
+      "notes": [
+        {
+          "id": "36b5a12d-502a-4fd9-9e14-a68c9d420a72",
+          "content": "Discussed regarding UI/UX Design course details and schedule.",
+          "createdDate": "2026-04-26T21:05:31.808Z",
+          "createdBy": "Amit Kumar"
+        },
+        {
+          "id": "6e18ed7a-6b04-4beb-a2d9-95138e513a36",
+          "content": "Discussed regarding Cloud Computing course details and schedule.",
+          "createdDate": "2026-05-18T12:49:13.187Z",
+          "createdBy": "Neha Sharma"
+        },
+        {
+          "id": "4c33e066-16b6-484c-b75b-f74a6beeff3f",
+          "content": "Discussed regarding Cloud Computing course details and schedule.",
+          "createdDate": "2026-05-25T14:30:21.478Z",
+          "createdBy": "Priya Singh"
+        }
+      ]
+    },
+    {
+      "id": "48",
+      "name": "Vikram Singh",
+      "mobile": "9510798551",
+      "email": "vikram.singh@example.com",
+      "address": "Hyderabad",
+      "courseInterested": "Cloud Computing",
+      "leadSource": "Google Ads",
+      "assignedEmployee": "Rohan Desai",
+      "status": "Qualified",
+      "createdDate": "2024-03-08",
+      "notes": [
+        {
+          "id": "f652d496-693f-4b97-a4c9-c041ca417e1d",
+          "content": "Discussed regarding Cyber Security course details and schedule.",
+          "createdDate": "2026-04-26T18:25:52.020Z",
+          "createdBy": "Amit Kumar"
+        }
+      ]
+    },
+    {
+      "id": "49",
+      "name": "Divya Verma",
+      "mobile": "9553913786",
+      "email": "divya.verma@example.com",
+      "address": "Mumbai",
+      "courseInterested": "Data Science",
+      "leadSource": "Referral",
+      "assignedEmployee": "Amit Kumar",
+      "status": "New",
+      "createdDate": "2026-01-21",
+      "notes": []
+    },
+    {
+      "id": "50",
+      "name": "Arjun Kumar",
+      "mobile": "9630218132",
+      "email": "arjun.kumar@example.com",
+      "address": "Hyderabad",
+      "courseInterested": "UI/UX Design",
+      "leadSource": "Direct",
+      "assignedEmployee": "Amit Kumar",
+      "status": "Converted",
+      "createdDate": "2026-04-23",
+      "notes": [
+        {
+          "id": "e63e0852-a92a-43dc-bf93-e1b87892b773",
+          "content": "Discussed regarding UI/UX Design course details and schedule.",
+          "createdDate": "2026-05-09T19:46:38.633Z",
+          "createdBy": "Priya Singh"
+        },
+        {
+          "id": "cc676f45-72e3-4078-9b9d-7d49192dbaab",
+          "content": "Discussed regarding Cloud Computing course details and schedule.",
+          "createdDate": "2026-07-04T09:12:10.716Z",
+          "createdBy": "Neha Sharma"
+        },
+        {
+          "id": "92d2b0ee-fbfa-4dfc-9bf5-53b750cab0f5",
+          "content": "Discussed regarding Cyber Security course details and schedule.",
+          "createdDate": "2026-04-29T11:58:01.380Z",
+          "createdBy": "Rohan Desai"
+        }
+      ]
+    },
+    {
+      "id": "51",
+      "name": "Pooja Patel",
+      "mobile": "9794418569",
+      "email": "pooja.patel@example.com",
+      "address": "Hyderabad",
+      "courseInterested": "Cyber Security",
+      "leadSource": "Google Ads",
+      "assignedEmployee": "Amit Kumar",
+      "status": "Contacted",
+      "createdDate": "2025-08-15",
+      "notes": [
+        {
+          "id": "b840c81a-15a8-43fe-8f5a-67e173749ea8",
+          "content": "Discussed regarding Full Stack Development course details and schedule.",
+          "createdDate": "2026-03-26T23:20:10.160Z",
+          "createdBy": "Priya Singh"
+        },
+        {
+          "id": "f2e55048-80b9-4959-bc00-bfca259c4002",
+          "content": "Discussed regarding Cloud Computing course details and schedule.",
+          "createdDate": "2026-04-01T01:25:44.079Z",
+          "createdBy": "Vikram Singh"
+        },
+        {
+          "id": "e04bc244-a126-41ad-8105-650d4db18b99",
+          "content": "Discussed regarding Data Science course details and schedule.",
+          "createdDate": "2026-05-12T01:38:12.834Z",
+          "createdBy": "Amit Kumar"
+        }
+      ]
+    },
+    {
+      "id": "52",
+      "name": "Sneha Joshi",
+      "mobile": "9123716213",
+      "email": "sneha.joshi@example.com",
+      "address": "Kolkata",
+      "courseInterested": "UI/UX Design",
+      "leadSource": "LinkedIn",
+      "assignedEmployee": "Priya Singh",
+      "status": "New",
+      "createdDate": "2023-09-03",
+      "notes": [
+        {
+          "id": "452bb48e-57bc-437c-8254-f4c079cc9690",
+          "content": "Discussed regarding Cyber Security course details and schedule.",
+          "createdDate": "2026-03-30T00:36:25.408Z",
+          "createdBy": "Priya Singh"
+        }
+      ]
+    },
+    {
+      "id": "53",
+      "name": "Pooja Chauhan",
+      "mobile": "9783724213",
+      "email": "pooja.chauhan@example.com",
+      "address": "Pune",
+      "courseInterested": "Cloud Computing",
+      "leadSource": "LinkedIn",
+      "assignedEmployee": "Rohan Desai",
+      "status": "Contacted",
+      "createdDate": "2026-01-16",
+      "notes": [
+        {
+          "id": "6e0dd95c-9cdd-4c61-83d9-a8f201e18f31",
+          "content": "Discussed regarding Cloud Computing course details and schedule.",
+          "createdDate": "2026-04-05T01:10:57.469Z",
+          "createdBy": "Amit Kumar"
+        },
+        {
+          "id": "ed4d1c49-61ab-40dc-b1a5-e595301d23e0",
+          "content": "Discussed regarding Cyber Security course details and schedule.",
+          "createdDate": "2026-05-22T05:06:20.383Z",
+          "createdBy": "Vikram Singh"
+        }
+      ]
+    },
+    {
+      "id": "54",
+      "name": "Anjali Verma",
+      "mobile": "9177390970",
+      "email": "anjali.verma@example.com",
+      "address": "Delhi",
+      "courseInterested": "Full Stack Development",
+      "leadSource": "Direct",
+      "assignedEmployee": "Priya Singh",
+      "status": "Lost",
+      "createdDate": "2024-11-12",
+      "notes": []
+    },
+    {
+      "id": "55",
+      "name": "Kavita Gupta",
+      "mobile": "9359342358",
+      "email": "kavita.gupta@example.com",
+      "address": "Kolkata",
+      "courseInterested": "UI/UX Design",
+      "leadSource": "Referral",
+      "assignedEmployee": "Rohan Desai",
+      "status": "Converted",
+      "createdDate": "2026-05-19",
+      "notes": [
+        {
+          "id": "fe38afe4-c446-44cf-8e96-193be1694efc",
+          "content": "Discussed regarding Cloud Computing course details and schedule.",
+          "createdDate": "2026-03-19T19:22:03.241Z",
+          "createdBy": "Neha Sharma"
+        },
+        {
+          "id": "a4d4585d-c57e-4185-b759-1365e28e9d51",
+          "content": "Discussed regarding UI/UX Design course details and schedule.",
+          "createdDate": "2026-05-31T00:38:08.740Z",
+          "createdBy": "Priya Singh"
+        },
+        {
+          "id": "6e151c34-2f05-4f93-bb45-43aecd5cb669",
+          "content": "Discussed regarding Full Stack Development course details and schedule.",
+          "createdDate": "2026-04-03T12:43:12.551Z",
+          "createdBy": "Neha Sharma"
+        }
+      ]
+    },
+    {
+      "id": "56",
+      "name": "Deepak Rao",
+      "mobile": "9551997056",
+      "email": "deepak.rao@example.com",
+      "address": "Chennai",
+      "courseInterested": "UI/UX Design",
+      "leadSource": "Google Ads",
+      "assignedEmployee": "Rohan Desai",
+      "status": "Contacted",
+      "createdDate": "2023-08-23",
+      "notes": [
+        {
+          "id": "a332a3de-35de-4cba-bda7-b52bc7e6b49a",
+          "content": "Discussed regarding Cyber Security course details and schedule.",
+          "createdDate": "2026-03-20T16:40:03.773Z",
+          "createdBy": "Vikram Singh"
+        },
+        {
+          "id": "ae583eb6-b5a8-497d-8e42-3975f4588cfd",
+          "content": "Discussed regarding UI/UX Design course details and schedule.",
+          "createdDate": "2026-03-18T02:52:52.496Z",
+          "createdBy": "Neha Sharma"
+        }
+      ]
+    },
+    {
+      "id": "57",
+      "name": "Karan Desai",
+      "mobile": "9330006500",
+      "email": "karan.desai@example.com",
+      "address": "Ahmedabad",
+      "courseInterested": "Cyber Security",
+      "leadSource": "Direct",
+      "assignedEmployee": "Neha Sharma",
+      "status": "Converted",
+      "createdDate": "2026-05-22",
+      "notes": [
+        {
+          "id": "3221ed9d-b45a-413b-8695-f595e12a438d",
+          "content": "Discussed regarding Cyber Security course details and schedule.",
+          "createdDate": "2026-05-04T02:32:16.942Z",
+          "createdBy": "Rohan Desai"
+        }
+      ]
+    },
+    {
+      "id": "58",
+      "name": "Neha Sharma",
+      "mobile": "9372093261",
+      "email": "neha.sharma@example.com",
+      "address": "Bangalore",
+      "courseInterested": "Cyber Security",
+      "leadSource": "Referral",
+      "assignedEmployee": "Priya Singh",
+      "status": "New",
+      "createdDate": "2025-10-25",
+      "notes": []
+    },
+    {
+      "id": "59",
+      "name": "Rohan Nair",
+      "mobile": "9716966156",
+      "email": "rohan.nair@example.com",
+      "address": "Chennai",
+      "courseInterested": "Data Science",
+      "leadSource": "Google Ads",
+      "assignedEmployee": "Rohan Desai",
+      "status": "Converted",
+      "createdDate": "2024-01-14",
+      "notes": [
+        {
+          "id": "c15b098a-b48f-4c2d-b61d-d1e6ef26694b",
+          "content": "Discussed regarding Cloud Computing course details and schedule.",
+          "createdDate": "2026-06-05T03:13:10.851Z",
+          "createdBy": "Neha Sharma"
+        },
+        {
+          "id": "f1fa934f-14ea-4eb5-9abb-2bcc9ae1779c",
+          "content": "Discussed regarding Full Stack Development course details and schedule.",
+          "createdDate": "2026-03-19T19:12:55.497Z",
+          "createdBy": "Priya Singh"
+        },
+        {
+          "id": "f4e12d25-7417-4af0-b88e-6a61c1f3b250",
+          "content": "Discussed regarding Cyber Security course details and schedule.",
+          "createdDate": "2026-03-30T15:01:05.718Z",
+          "createdBy": "Rohan Desai"
+        }
+      ]
+    },
+    {
+      "id": "60",
+      "name": "Rohan Chauhan",
+      "mobile": "9575346360",
+      "email": "rohan.chauhan@example.com",
+      "address": "Hyderabad",
+      "courseInterested": "Cyber Security",
+      "leadSource": "Website",
+      "assignedEmployee": "Neha Sharma",
+      "status": "New",
+      "createdDate": "2024-04-09",
+      "notes": [
+        {
+          "id": "9953e6ae-e839-46c3-9ab3-1b25a53b35b6",
+          "content": "Discussed regarding Cloud Computing course details and schedule.",
+          "createdDate": "2026-03-21T19:59:02.621Z",
+          "createdBy": "Amit Kumar"
+        }
+      ]
+    },
+    {
+      "id": "61",
+      "name": "Anjali Nair",
+      "mobile": "9282633107",
+      "email": "anjali.nair@example.com",
+      "address": "Hyderabad",
+      "courseInterested": "UI/UX Design",
+      "leadSource": "Website",
+      "assignedEmployee": "Rohan Desai",
+      "status": "Qualified",
+      "createdDate": "2025-10-05",
+      "notes": [
+        {
+          "id": "9071f600-e7ad-4060-914f-c30db2d61395",
+          "content": "Discussed regarding Data Science course details and schedule.",
+          "createdDate": "2026-04-19T05:41:05.495Z",
+          "createdBy": "Amit Kumar"
+        }
+      ]
+    },
+    {
+      "id": "62",
+      "name": "Deepak Joshi",
+      "mobile": "9777892552",
+      "email": "deepak.joshi@example.com",
+      "address": "Chennai",
+      "courseInterested": "Full Stack Development",
+      "leadSource": "Google Ads",
+      "assignedEmployee": "Amit Kumar",
+      "status": "Lost",
+      "createdDate": "2023-07-07",
+      "notes": [
+        {
+          "id": "39585349-ecf6-43c4-b05b-4c4eda4849f4",
+          "content": "Discussed regarding Full Stack Development course details and schedule.",
+          "createdDate": "2026-05-30T07:23:44.319Z",
+          "createdBy": "Vikram Singh"
+        },
+        {
+          "id": "3726f360-257b-433b-9df0-86804071908a",
+          "content": "Discussed regarding Cyber Security course details and schedule.",
+          "createdDate": "2026-05-23T06:09:21.576Z",
+          "createdBy": "Priya Singh"
+        },
+        {
+          "id": "29044eb7-1931-4bd9-885b-476d5cdba9cc",
+          "content": "Discussed regarding UI/UX Design course details and schedule.",
+          "createdDate": "2026-05-10T12:41:35.529Z",
+          "createdBy": "Amit Kumar"
+        }
+      ]
+    },
+    {
+      "id": "63",
+      "name": "Arjun Patel",
+      "mobile": "9441842981",
+      "email": "arjun.patel@example.com",
+      "address": "Pune",
+      "courseInterested": "Data Science",
+      "leadSource": "Google Ads",
+      "assignedEmployee": "Neha Sharma",
+      "status": "Lost",
+      "createdDate": "2026-01-05",
+      "notes": []
+    },
+    {
+      "id": "64",
+      "name": "Anjali Das",
+      "mobile": "9642948536",
+      "email": "anjali.das@example.com",
+      "address": "Mumbai",
+      "courseInterested": "Cloud Computing",
+      "leadSource": "Google Ads",
+      "assignedEmployee": "Amit Kumar",
+      "status": "Contacted",
+      "createdDate": "2025-12-14",
+      "notes": []
+    },
+    {
+      "id": "65",
+      "name": "Suresh Nair",
+      "mobile": "9347897492",
+      "email": "suresh.nair@example.com",
+      "address": "Kolkata",
+      "courseInterested": "Cyber Security",
+      "leadSource": "Google Ads",
+      "assignedEmployee": "Priya Singh",
+      "status": "Lost",
+      "createdDate": "2025-12-23",
+      "notes": [
+        {
+          "id": "3874f655-ffac-42d4-bfe4-21466812cc79",
+          "content": "Discussed regarding Full Stack Development course details and schedule.",
+          "createdDate": "2026-05-03T05:00:26.647Z",
+          "createdBy": "Vikram Singh"
+        },
+        {
+          "id": "09b728d8-ba67-43d2-beef-3c6d8af6fd6f",
+          "content": "Discussed regarding Cloud Computing course details and schedule.",
+          "createdDate": "2026-04-25T15:36:40.078Z",
+          "createdBy": "Rohan Desai"
+        },
+        {
+          "id": "a0a94dc2-89eb-44e3-b82d-0d98683f102d",
+          "content": "Discussed regarding Cyber Security course details and schedule.",
+          "createdDate": "2026-06-14T01:19:25.834Z",
+          "createdBy": "Priya Singh"
+        }
+      ]
+    },
+    {
+      "id": "66",
+      "name": "Divya Chauhan",
+      "mobile": "9542292774",
+      "email": "divya.chauhan@example.com",
+      "address": "Bangalore",
+      "courseInterested": "UI/UX Design",
+      "leadSource": "Referral",
+      "assignedEmployee": "Neha Sharma",
+      "status": "Lost",
+      "createdDate": "2024-07-15",
+      "notes": []
+    },
+    {
+      "id": "67",
+      "name": "Vikram Singh",
+      "mobile": "9965596773",
+      "email": "vikram.singh@example.com",
+      "address": "Pune",
+      "courseInterested": "Cloud Computing",
+      "leadSource": "Direct",
+      "assignedEmployee": "Rohan Desai",
+      "status": "Lost",
+      "createdDate": "2025-04-29",
+      "notes": [
+        {
+          "id": "b82aacc9-eda3-4799-8847-6b519d0b72c5",
+          "content": "Discussed regarding Full Stack Development course details and schedule.",
+          "createdDate": "2026-05-19T17:41:55.257Z",
+          "createdBy": "Neha Sharma"
+        },
+        {
+          "id": "05bb9bc6-70e8-4fc6-8f5b-155ebf127be9",
+          "content": "Discussed regarding Data Science course details and schedule.",
+          "createdDate": "2026-03-13T01:19:07.312Z",
+          "createdBy": "Neha Sharma"
+        }
+      ]
+    },
+    {
+      "id": "68",
+      "name": "Karan Mehta",
+      "mobile": "9863248021",
+      "email": "karan.mehta@example.com",
+      "address": "Delhi",
+      "courseInterested": "Cloud Computing",
+      "leadSource": "Referral",
+      "assignedEmployee": "Vikram Singh",
+      "status": "Lost",
+      "createdDate": "2026-03-07",
+      "notes": [
+        {
+          "id": "e9afddfb-9dda-4c0d-9cbe-fb78f332ce78",
+          "content": "Discussed regarding UI/UX Design course details and schedule.",
+          "createdDate": "2026-06-07T19:56:04.666Z",
+          "createdBy": "Amit Kumar"
+        },
+        {
+          "id": "e4e6eff1-afcb-4681-811c-c2029e46f6aa",
+          "content": "Discussed regarding Cyber Security course details and schedule.",
+          "createdDate": "2026-05-26T07:16:21.157Z",
+          "createdBy": "Neha Sharma"
+        },
+        {
+          "id": "ef25e578-3dfa-468b-a2e0-9a0a64923197",
+          "content": "Discussed regarding Cyber Security course details and schedule.",
+          "createdDate": "2026-03-18T22:42:06.559Z",
+          "createdBy": "Amit Kumar"
+        }
+      ]
+    },
+    {
+      "id": "69",
+      "name": "Karan Reddy",
+      "mobile": "9792183742",
+      "email": "karan.reddy@example.com",
+      "address": "Pune",
+      "courseInterested": "Full Stack Development",
+      "leadSource": "Direct",
+      "assignedEmployee": "Vikram Singh",
+      "status": "Lost",
+      "createdDate": "2023-09-22",
+      "notes": [
+        {
+          "id": "37603223-116c-4c5f-a8ae-c45f164ba951",
+          "content": "Discussed regarding Data Science course details and schedule.",
+          "createdDate": "2026-05-12T15:36:13.102Z",
+          "createdBy": "Priya Singh"
+        },
+        {
+          "id": "37ecf6a4-7c7f-4e86-867e-86b5a3578e77",
+          "content": "Discussed regarding Cloud Computing course details and schedule.",
+          "createdDate": "2026-03-28T22:52:21.265Z",
+          "createdBy": "Priya Singh"
+        }
+      ]
+    },
+    {
+      "id": "70",
+      "name": "Priya Joshi",
+      "mobile": "9776503576",
+      "email": "priya.joshi@example.com",
+      "address": "Pune",
+      "courseInterested": "Full Stack Development",
+      "leadSource": "Google Ads",
+      "assignedEmployee": "Amit Kumar",
+      "status": "Lost",
+      "createdDate": "2023-07-08",
+      "notes": []
+    },
+    {
+      "id": "71",
+      "name": "Vikram Roy",
+      "mobile": "9161335003",
+      "email": "vikram.roy@example.com",
+      "address": "Bangalore",
+      "courseInterested": "Cyber Security",
+      "leadSource": "LinkedIn",
+      "assignedEmployee": "Priya Singh",
+      "status": "Converted",
+      "createdDate": "2025-11-29",
+      "notes": [
+        {
+          "id": "dc7927e3-98b4-4f7f-af27-5c071677b161",
+          "content": "Discussed regarding UI/UX Design course details and schedule.",
+          "createdDate": "2026-03-27T22:52:30.296Z",
+          "createdBy": "Rohan Desai"
+        },
+        {
+          "id": "4e09689b-90c6-47d7-b36b-bedace050ee0",
+          "content": "Discussed regarding Cloud Computing course details and schedule.",
+          "createdDate": "2026-04-03T15:58:54.772Z",
+          "createdBy": "Rohan Desai"
+        }
+      ]
+    },
+    {
+      "id": "72",
+      "name": "Vikram Singh",
+      "mobile": "9910569001",
+      "email": "vikram.singh@example.com",
+      "address": "Hyderabad",
+      "courseInterested": "Cyber Security",
+      "leadSource": "Website",
+      "assignedEmployee": "Amit Kumar",
+      "status": "Qualified",
+      "createdDate": "2023-08-12",
+      "notes": [
+        {
+          "id": "fb7f6315-d6c0-42aa-8fcc-c9244cc4492f",
+          "content": "Discussed regarding Full Stack Development course details and schedule.",
+          "createdDate": "2026-03-15T04:13:27.277Z",
+          "createdBy": "Priya Singh"
+        }
+      ]
+    },
+    {
+      "id": "73",
+      "name": "Karan Rao",
+      "mobile": "9598837266",
+      "email": "karan.rao@example.com",
+      "address": "Chennai",
+      "courseInterested": "Full Stack Development",
+      "leadSource": "LinkedIn",
+      "assignedEmployee": "Priya Singh",
+      "status": "Lost",
+      "createdDate": "2025-11-07",
+      "notes": [
+        {
+          "id": "d08d3ad5-1f52-4550-8133-a26e53e56d21",
+          "content": "Discussed regarding Full Stack Development course details and schedule.",
+          "createdDate": "2026-06-19T19:48:41.297Z",
+          "createdBy": "Rohan Desai"
+        },
+        {
+          "id": "eac907f8-6084-4158-b5ef-31ea7f3afb03",
+          "content": "Discussed regarding Cyber Security course details and schedule.",
+          "createdDate": "2026-04-15T10:09:49.575Z",
+          "createdBy": "Priya Singh"
+        }
+      ]
+    },
+    {
+      "id": "74",
+      "name": "Deepak Joshi",
+      "mobile": "9757125863",
+      "email": "deepak.joshi@example.com",
+      "address": "Chennai",
+      "courseInterested": "Cloud Computing",
+      "leadSource": "LinkedIn",
+      "assignedEmployee": "Priya Singh",
+      "status": "Contacted",
+      "createdDate": "2024-08-25",
+      "notes": []
+    },
+    {
+      "id": "75",
+      "name": "Rahul Singh",
+      "mobile": "9572289326",
+      "email": "rahul.singh@example.com",
+      "address": "Delhi",
+      "courseInterested": "Data Science",
+      "leadSource": "Google Ads",
+      "assignedEmployee": "Amit Kumar",
+      "status": "Contacted",
+      "createdDate": "2023-11-23",
+      "notes": [
+        {
+          "id": "d55bd710-b765-4b9d-8c9c-47cc60a595be",
+          "content": "Discussed regarding Cloud Computing course details and schedule.",
+          "createdDate": "2026-03-29T00:58:17.048Z",
+          "createdBy": "Priya Singh"
+        },
+        {
+          "id": "1f66b9cb-9924-4b9f-b4d1-a0158e690fdd",
+          "content": "Discussed regarding Data Science course details and schedule.",
+          "createdDate": "2026-06-22T12:18:34.984Z",
+          "createdBy": "Priya Singh"
+        }
+      ]
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
